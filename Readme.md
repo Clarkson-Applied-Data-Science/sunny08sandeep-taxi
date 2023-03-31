@@ -174,7 +174,7 @@ for row in reader:
         break
 ```
 #### Description:
-* Result is first 5 rows of the dataset and then breaking the iteration after 5th row.
+* Result is first 10 rows of the dataset and then breaking the iteration after 10th row.
 ### **What MySQL data types / len would you need to store each of the fields?**
 ---
 Data types / len needed are:
